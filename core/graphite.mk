@@ -62,6 +62,7 @@ LOCAL_DISABLE_GRAPHITE := \
   libf2fs_ioutils_host \
   libf2fs_fmt_host_dyn \
   libext2_uuid_host \
+  libhealthd.exynos4 \
   minigzip \
   libdex \
   dexdump \
